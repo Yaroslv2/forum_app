@@ -1,0 +1,26 @@
+[
+    {
+        "date": "11-13 мая",
+        "place": "Экспофорум",
+        "title": "Петербургский международный юридический форум 2023",
+        "background": "assets/images/background.png",
+        "icon": "assets/images/event_icon_1.png",
+        "city": "Санкт-Петербург, Россия"
+    },
+    {
+        "date": "5-8 сентября",
+        "place": "ДФУ",
+        "title": "Восточный экономический форум 2023",
+        "background": "assets/images/background.png",
+        "icon": "assets/images/event_icon_1.png",
+        "city": "Владивосток, Россия"
+    },
+    {
+        "date": "14-17 июня",
+        "place": "Экспофорум",
+        "title": "Санкт-Петербургский международный экономический форум 2023",
+        "background": "assets/images/background.png",
+        "icon": "assets/images/event_icon_1.png",
+        "city": "Санкт-Петербург, Россия"
+    }
+]

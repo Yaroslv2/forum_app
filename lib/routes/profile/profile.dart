@@ -1,0 +1,1 @@
+export 'package:light_digital_test_app/routes/profile/view/profile_page.dart';
